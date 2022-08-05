@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d2e4bb8.css",
+    "main.js": "/static/js/main.39a6b368.js",
+    "static/js/787.500aa9d7.chunk.js": "/static/js/787.500aa9d7.chunk.js",
+    "static/media/korrank.jpg": "/static/media/korrank.5334c2600b0c1a47dcb7.jpg",
+    "static/media/movrank.jpg": "/static/media/movrank.6ca270721e6a2cfcca5d.jpg",
+    "index.html": "/index.html",
+    "main.0d2e4bb8.css.map": "/static/css/main.0d2e4bb8.css.map",
+    "main.39a6b368.js.map": "/static/js/main.39a6b368.js.map",
+    "787.500aa9d7.chunk.js.map": "/static/js/787.500aa9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2e4bb8.css",
+    "static/js/main.39a6b368.js"
+  ]
+}
